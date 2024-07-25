@@ -15,44 +15,45 @@ a real-world problem.
 
 	Data Collection and Management:
 
-	•	Compile a dataset with student demographics, academic performance, and other relevant features.
+	• Compile a dataset with student demographics, academic performance, and other relevant features.
 
-	•	Use Data Version Control (DVC) to track and manage data versions.
+	• Use Data Version Control (DVC) to track and manage data versions.
 
 	Exploratory Data Analysis (EDA):
 
-	•	Perform EDA to understand patterns and relationships in the data.
-	•	Visualize key insights that could influence model predictions.
+	• Perform EDA to understand patterns and relationships in the data.
+	• Visualize key insights that could influence model predictions.
 
 	Feature Engineering and Selection:
-	•	Engineer new features that could improve model performance.
+	• Engineer new features that could improve model performance.
 
-	•	Select the most predictive features using techniques like feature importance.
+	• Select the most predictive features using techniques like feature importance.
 
 	Model Training and Evaluation:
-	•	Train various classification models to predict graduation likelihood.
+	• Train various classification models to predict graduation likelihood.
 
-	•	Evaluate models using accuracy, precision, recall, and F1-score metrics.
+	• Evaluate models using accuracy, precision, recall, and F1-score metrics.
 
 	MLOps Pipeline Integration:
 
-	•	Integrate the model into an MLOps pipeline for automated testing, integration, and deployment.
+	• Integrate the model into an MLOps pipeline for automated testing, integration, and deployment.
 
-	•	Use tools like GitHub Actions and CI/CD for automation.
+	• Use tools like GitHub Actions and CI/CD for automation.
 
 	Model Deployment and Monitoring:
 
-	•	Deploy the model as a service using cloud platforms like AWS and Azure.
+	• Deploy the model as a service using cloud platforms like AWS and Azure.
 
-	•	Monitor the model’s performance in production using MLflow or Prometheus.
+	• Monitor the model’s performance in production using MLflow or Prometheus.
 
 	Feedback Loop for Continuous Learning:
 
-	•	Implement a feedback mechanism to collect new data and retrain the model periodically.
+	• Implement a feedback mechanism to collect new data and retrain the model periodically.
 
-	•	Ensure the model adapts to changes in student demographics or academic policies.
+	• Ensure the model adapts to changes in student demographics or academic policies.
 
 	User Interface for Stakeholders:
-	•	Develop a user-friendly interface for educators to input data and receive predictions.
-    
-	•	Provide actionable insights and recommendations based on model outputs.
+
+	• Develop a user-friendly interface for educators to input data and receive predictions.
+
+	• Provide actionable insights and recommendations based on model outputs.
